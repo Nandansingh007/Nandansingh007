@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandansingh007&label=Profile%20views&color=0e75b6&style=flat" alt="nandansingh007" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Object Detection**
+- 🌱 I’m currently learning **Artificial Language(AI), Large Language Model(LLMs), Cloud(Azure,AWS), RAG, Prompt Engineering**
 
 - 💬 Ask me about **SQL,Database, Python, Data Engineering, Data Science, Basic ML/AI**
 
